@@ -1,0 +1,14 @@
+EE209 Assignment 3
+Name : Kim Yunseong
+ID : 20150183
+
+1. precept and lecutre helped me to do this assignment a lot.
+2. hash table was much faster than linked list, actually in searching.
+   This result is came by test code, specifically, getsumcustomerpurchase
+   includes searching algorithm. at this time, hash table was really fast.
+   I think hash table is better than linked list in every side, actually.
+   Just 1 thing which linked list is better is the time which costs to
+   make code. :D
+3. I did hash table expansion in growhash function, in customer_manager2.c
+4. I spent time similar to assignment 2. It didn't took a lot.
+5. I could understand hash table and linked list. It was really nice.

@@ -1,0 +1,20 @@
+Name : Kim Yunseong
+ID : 20150183
+
+
+Assignment 6
+
+
+-- I did this assignment individually.
+
+-- There are some of mistakes and errors.
+
+1. my makefile works if there are no *.o files in my directory. However, if I modify some codes, it says some of messages, such as undefined reference to ~~~. However, execution file works. I cannot know why this happens. I mailed to YoungGyoun Moon, but I could not solve this problem.
+
+2. Pipe does not work, so if the message contains pipe, it leads to segmentation fault.
+   *IMPORTANT*
+   Because pipe doesn't work, if I get input from .ishrc, it goes to the infinite loop at
+   	   ls -al | grep drw
+	   
+   So, I think when you try to grade my code, you should reject all of pipe scores, and other testing codes should not contain pipe element.
+   (However, my code determines whether | is the special character or just filename.)
